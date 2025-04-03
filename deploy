@@ -1,0 +1,7 @@
+#!/bin/sh
+HOST=uberspace.ngopi
+DIR=/var/www/virtual/ngopi/html   # the directory where your website files should go
+
+hugo && rsync -avz --delete public/ ${HOST}:${DIR} # this will delete everything on the server that's not in the local public directory 
+
+exit 0
