@@ -88,8 +88,8 @@ params:
         links:
         - text: Peet's Homepage
           link: https://peet.ngopi.de/
-        - text: Kai's Homepage
-          link: http://kohennigs.de/
+        # - text: Kai's Homepage
+        #  link: http://kohennigs.de/
       column2:
         title: "Über uns"
         links:
