@@ -9,7 +9,7 @@ include_footer = true
 Administrative und inhaltliche Verantwortung für [ngopi.de](https://www.ngopi.de) (andere Seitensysteme die von der Hauptdomain [ngopi.de](https://www.ngopi.de) abweichen ausgeschlossen) hat die Gruppe:
 
 * Daniel Hintz (Bad Salzdetfurth)
-* Kai Hennigs (Ehlershausen)
+* Kai-O. Hennigs (Ehlershausen)
 * Matthias Holsten (Hamburg)
 * Peter Hauer (Wolfenbüttel)
 
